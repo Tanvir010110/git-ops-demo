@@ -1,1 +1,2 @@
-Sampal workflow
+echo "Welcome"
+  shell: /usr/bin/bash -e {0}
